@@ -1,0 +1,19 @@
+﻿@using Services.Dtos;
+@{
+    ViewData["Title"] = "Add Criature";
+}
+@model CriatureModel;
+
+<div class="form-group">
+    <form class="form-inline" asp-controller="Criature" asp-action="AddCriature" method="post">
+        <input type="text" class="form-control mb-2" asp-for="Nombre" placeholder="Nombre" required />
+        <input type="text" class="form-control mb-2" asp-for="NombreCientifico" placeholder="Nombre Científico" required />
+        <input type="text" class="form-control mb-2" asp-for="Tipo" placeholder="Tipo" required />
+        <input type="text" class="form-control mb-2" asp-for="Habitat" placeholder="Hábitat" required />
+        <input type="text" class="form-control mb-2" asp-for="Alimentacion" placeholder="Alimentación" required />
+        <input type="text" class="form-control mb-2" asp-for="Descripcion" placeholder="Descripción" required />
+        <input type="url" class="form-control mb-2" asp-for="ImagenUrl" placeholder="Imagen URL" />
+
+        <button type="submit" class="btn btn-primary">Crear</button>
+    </form>
+</div>

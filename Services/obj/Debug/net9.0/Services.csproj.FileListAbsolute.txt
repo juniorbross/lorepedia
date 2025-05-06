@@ -1,0 +1,17 @@
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\bin\Debug\net9.0\Services.dll
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\bin\Debug\net9.0\Domain.dll
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\bin\Debug\net9.0\Domain.pdb
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\Services.dll
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Services\obj\Debug\net9.0\ref\Services.dll

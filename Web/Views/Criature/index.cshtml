@@ -1,0 +1,33 @@
+﻿@using Services.Dtos
+@{
+    ViewData["Title"] = "Lista de Criaturas";
+}
+@model CriatureModels;
+
+<div class="text-center">
+    @if (Model.Criatures.Count > 0)
+    {
+        <div class="row">
+            @for (int i = 0; i < Model.Criatures.Count; i++)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="@Model.Criatures.ToArray()[i].ImagenUrl" class="card-img-top" alt="Imagen de @Model.Criatures.ToArray()[i].Nombre" style="width: 100%; height: auto; object-fit: contain;" />
+                        <div class="card-body">
+                            <h5 class="card-title">@Model.Criatures.ToArray()[i].Nombre</h5>
+                            <p class="card-text">
+                                <strong>Tipo:</strong> @Model.Criatures.ToArray()[i].Tipo <br />
+                                <strong>Hábitat:</strong> @Model.Criatures.ToArray()[i].Habitat <br />
+                                <strong>Descripción:</strong> @Model.Criatures.ToArray()[i].Descripcion
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <h5>No hay criaturas registradas</h5>
+    }
+</div>
