@@ -1,0 +1,43 @@
+﻿@using Services.Dtos
+@model CriatureModel
+
+@{
+    ViewData["Title"] = "Detalles de la Criatura";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">@Model.Nombre</h2>
+
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@Model.ImagenUrl" class="img-fluid rounded" alt="Imagen de @Model.Nombre" />
+        </div>
+        <div class="col-md-6">
+            <p><strong>Tipo:</strong> @Model.Tipo</p>
+            <p><strong>Hábitat:</strong> @Model.Habitat</p>
+            <p><strong>Alimentación:</strong> @Model.Alimentacion</p>
+            <p><strong>Descripción:</strong> @Model.Descripcion</p>
+            <p><strong>Precaución:</strong> @Model.Preacaucion</p>
+
+            <p>
+                <strong>Nivel de Peligro:</strong>
+                <span class="star-rating">
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        if (i <= Model.niveldepeligro)
+                        {
+                            <span style="color: gold;">&#9733;</span>
+                        }
+                        else
+                        {
+                            <span style="color: #ddd;">&#9733;</span>
+                        }
+                    }
+                </span>
+            </p>
+
+            <a asp-action="Index" class="btn btn-secondary">Volver</a>
+        </div>
+    </div>
+</div>
+

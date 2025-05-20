@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using Domain;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Services.Dtos;
 using Services.IServices;
 
@@ -38,10 +40,64 @@ namespace MvcTemplate.Controllers
             if (ModelState.IsValid)
             {
                 // Llamar al servicio para agregar la nueva criatura
-                await Service.AddCriature(model.Nombre, model.NombreCientifico, model.Tipo, model.Habitat, model.Alimentacion, model.Descripcion, model.ImagenUrl);
+                await Service.AddCriature(model);
                 return RedirectToAction("Index");
             }
             return View(model);
         }
+        // Acción GET para editar una criatura existente
+        public async Task<IActionResult> Edit(Guid id)
+        {
+            var criatureList = await Service.GetAllCriatures();
+            var criature = criatureList.FirstOrDefault(c => c.Id == id);
+
+            if (criature == null)
+            {
+                return NotFound();
+            }
+
+            return View("EditCriature", criature); // Asegúrate de tener una vista llamada EditCriature.cshtml
+        }
+
+        // Acción POST para actualizar una criatura existente
+        [HttpPost]
+        public async Task<IActionResult> Edit(CriatureModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                await Service.UpdateCriature(model);
+                return RedirectToAction("Index");
+            }
+
+            return View("EditCriature", model);
+        }
+
+        // Acción para eliminar una criatura
+        [HttpPost]
+        public async Task<IActionResult> Delete(Guid id)
+        {
+            await Service.DeleteCriature(id);
+            return RedirectToAction("Index");
+        }
+        
+        // Acción GET para ver los detalles de una criatura
+        [HttpGet]
+        public async Task<IActionResult> VerMas(Guid id)
+        {
+            var criatureList = await Service.GetAllCriatures();
+            var criature = criatureList.FirstOrDefault(c => c.Id == id);
+
+            if (criature == null)
+            {
+                return NotFound();
+            }
+
+            return View("VerMas", criature); // Asegúrate de crear la vista VerMas.cshtml
+        }
+
+
+
+
+
     }
 }

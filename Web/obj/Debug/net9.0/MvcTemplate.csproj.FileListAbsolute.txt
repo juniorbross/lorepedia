@@ -1,3 +1,4 @@
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\bin\Debug\net9.0\appsettings.json
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\bin\Debug\net9.0\MvcTemplate.staticwebassets.runtime.json
@@ -164,6 +165,7 @@ C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\o
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\MvcTemplate.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\MvcTemplate.RazorAssemblyInfo.cache
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\MvcTemplate.RazorAssemblyInfo.cs
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\MvcTemplate.sourcelink.json
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\scopedcss\bundle\MvcTemplate.styles.css
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\scopedcss\projectbundle\MvcTemplate.bundle.scp.css
@@ -199,7 +201,6 @@ C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\o
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
-C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
