@@ -1,0 +1,174 @@
+﻿body {
+    background-image: url('https://images.unsplash.com/photo-1728246950247-8f930644fd1e?q=80&w=2115&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Uncial Antiqua', serif;
+    color: #f8f4e3;
+}
+
+/* Título estilo mitológico */
+.title-lorepedia {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 4rem;
+    color: #f5e8c7;
+    text-shadow: 2px 2px 6px #000;
+    cursor: pointer;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Estilo del filtro */
+.filter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+#searchInput {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    width: 300px;
+    font-size: 1.1rem;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#starFilter {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.filter-star {
+    font-size: 1.6rem;
+    color: #ccc;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+    .filter-star.selected {
+        color: gold;
+    }
+
+/* Tarjetas de criaturas */
+.cards-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    padding-bottom: 2rem;
+}
+
+.card {
+    background-color: rgba(24, 18, 34, 0.8);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s;
+}
+
+    .card:hover {
+        transform: scale(1.03);
+    }
+
+    .card img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+.card-body {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+}
+
+.card-title {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #f8e4b0;
+}
+
+.rating-label {
+    font-weight: bold;
+    margin-right: 6px;
+    color: #d6c3a3;
+}
+
+.star-rating {
+    display: inline-flex;
+    color: gold;
+    font-size: 1.4rem;
+}
+
+    .star-rating .empty {
+        color: #777;
+    }
+
+/* Botones mágicos */
+.btn-group-magic {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn-magic {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0.6rem 1.2rem;
+    border-radius: 40px;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.4s ease;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    /* Ver Más */
+    .btn-magic.view {
+        background: linear-gradient(135deg, #2c3e50, #3498db);
+    }
+
+        .btn-magic.view:hover {
+            background: linear-gradient(135deg, #3498db, #2c3e50);
+            box-shadow: 0 0 15px #3498dbaa;
+            transform: scale(1.05);
+        }
+
+    /* Editar */
+    .btn-magic.edit {
+        background: linear-gradient(135deg, #6a0dad, #ba55d3);
+    }
+
+        .btn-magic.edit:hover {
+            background: linear-gradient(135deg, #ba55d3, #6a0dad);
+            box-shadow: 0 0 15px #ba55d3aa;
+            transform: scale(1.05);
+        }
+
+    /* Eliminar */
+    .btn-magic.delete {
+        background: linear-gradient(135deg, #8b0000, #ff4500);
+    }
+
+        .btn-magic.delete:hover {
+            background: linear-gradient(135deg, #ff4500, #8b0000);
+            box-shadow: 0 0 15px #ff6347aa;
+            transform: scale(1.05);
+        }

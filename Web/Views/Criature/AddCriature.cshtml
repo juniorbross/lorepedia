@@ -4,57 +4,29 @@
 }
 @model CriatureModel;
 
-<style>
-    .star-rating {
-        direction: rtl;
-        unicode-bidi: bidi-override;
-        display: inline-flex;
-        vertical-align: middle;
-    }
-
-        .star-rating input[type="radio"] {
-            display: none;
-        }
-
-        .star-rating label {
-            font-size: 1.8rem;
-            color: #ddd;
-            cursor: pointer;
-        }
-
-            .star-rating input[type="radio"]:checked ~ label,
-            .star-rating label:hover,
-            .star-rating label:hover ~ label {
-                color: gold;
-            }
-
-    .form-container {
-        max-width: 600px;
-        margin: 0 auto;
-    }
-</style>
+<link href="~/css/addcriature.css" rel="stylesheet" />
 
 <div class="form-container">
     <h2 class="text-center mb-4">Agregar Criatura</h2>
 
     <form asp-controller="Criature" asp-action="AddCriature" method="post">
         <div class="form-group mb-3">
-            <input type="text" class="form-control" asp-for="Nombre" placeholder="Nombre" required />
+            <input type="text" class="form-control" asp-for="Nombre" placeholder="Nombre de la Criatura" required />
         </div>
         <div class="form-group mb-3">
-            <input type="text" class="form-control" asp-for="Tipo" placeholder="Tipo" required />
+            <input type="text" class="form-control" asp-for="Tipo" placeholder="Tipo Mitológico (Ej: Fuego, Sombra...)" required />
         </div>
         <div class="form-group mb-3">
-            <input type="text" class="form-control" asp-for="Habitat" placeholder="Hábitat" required />
+            <input type="text" class="form-control" asp-for="Habitat" placeholder="Hábitat Legendario" required />
         </div>
         <div class="form-group mb-3">
             <input type="text" class="form-control" asp-for="Alimentacion" placeholder="Alimentación" required />
         </div>
         <div class="form-group mb-3">
-            <input type="text" class="form-control" asp-for="Descripcion" placeholder="Descripción" required />
+            <textarea class="form-control" asp-for="Descripcion" placeholder="Descripción legendaria..." rows="6" required></textarea>
         </div>
         <div class="form-group mb-3">
-            <input type="url" class="form-control" asp-for="ImagenUrl" placeholder="Imagen URL" />
+            <input type="url" class="form-control" asp-for="ImagenUrl" placeholder="URL de Imagen Épica" />
         </div>
 
         <div class="form-group mb-3 d-flex align-items-center">
@@ -71,11 +43,10 @@
         </div>
 
         <div class="form-group mb-3">
-            <input type="text" class="form-control" asp-for="Preacaucion" placeholder="Precaución" />
+            <input type="text" class="form-control" asp-for="Preacaucion" placeholder="Precauciones ante su presencia..." />
         </div>
 
-        <div class="text-center">
-            <button type="submit" class="btn btn-primary">Crear</button>
-        </div>
+        <button type="submit" class="btn-magico">🧙‍♂️ Invocar Criatura</button>
+
     </form>
 </div>

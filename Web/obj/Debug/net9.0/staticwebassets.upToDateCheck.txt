@@ -1,3 +1,4 @@
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\css\editar.css
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
@@ -30,6 +31,7 @@ C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\w
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\css\index.css
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
@@ -53,14 +55,20 @@ C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\w
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\js\site.js
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\css\addcriature.css
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\css\vermas.css
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\css\addcriature.css
+wwwroot\css\editar.css
+wwwroot\css\index.css
 wwwroot\css\site.css
+wwwroot\css\vermas.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

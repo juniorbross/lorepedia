@@ -48,13 +48,16 @@ namespace Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("NombreCientifico")
+                    b.Property<string>("Preacaucion")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Tipo")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("niveldepeligro")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

@@ -4,126 +4,75 @@
 }
 @model CriatureModels;
 
-<!-- Estilos personalizados -->
-<style>
-    .star-rating {
-        display: inline-flex;
-        color: gold;
-        font-size: 1.4rem;
-        vertical-align: middle;
-    }
+<!-- Fuentes mitológicas -->
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Uncial+Antiqua&display=swap" rel="stylesheet" />
+<link href="~/css/index.css" rel="stylesheet" />
 
-        .star-rating .empty {
-            color: #ddd;
+<!-- Título principal (haz clic y redirige a lista) -->
+<h1 class="title-lorepedia" onclick="location.href='@Url.Action("Index", "Criature")'" title="Ir a la lista de criaturas">
+    Lorepedia
+</h1>
+
+<!-- Contenedor búsqueda + filtro -->
+<div class="filter-container">
+    <input type="text" id="searchInput" placeholder="Buscar criatura por nombre..." autocomplete="off" />
+    <div id="starFilter" title="Filtrar por nivel de peligro exacto">
+        @for (int i = 1; i <= 5; i++)
+        {
+            <span class="filter-star" data-value="@i">&#9733;</span>
         }
-
-    .rating-label {
-        font-weight: bold;
-        margin-right: 6px;
-    }
-
-    .card-title {
-        font-size: 1.2rem;
-        font-weight: bold;
-    }
-
-    .card {
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-    }
-
-    .btn-group-custom {
-        display: flex;
-        gap: 0.5rem;
-        flex-wrap: wrap;
-    }
-
-    /* Estilo para las estrellas del filtro */
-    .filter-star {
-        font-size: 1.5rem;
-        color: #ddd;
-        transition: color 0.2s;
-    }
-
-        .filter-star:hover {
-            color: gold;
-        }
-</style>
-
-<div class="text-center">
-
-    <!-- 🔍 Campo de búsqueda + ⭐ Filtro por estrellas -->
-    <div class="mb-4 d-flex justify-content-center align-items-center flex-wrap gap-3">
-        <!-- Campo de texto para filtrar por nombre -->
-        <input type="text" id="searchInput" class="form-control w-50" placeholder="Filtrar por nombre...">
-
-        <!-- Selector visual de estrellas para filtrar por nivel de peligro -->
-        <div id="starFilter" class="star-rating" style="cursor: pointer;" title="Filtrar por nivel de peligro exacto">
-            @for (int i = 1; i <= 5; i++)
-            {
-                <span class="filter-star" data-value="@i">&#9733;</span>
-            }
-        </div>
     </div>
-
-    <!-- 🧾 Lista de criaturas -->
-    @if (Model.Criatures.Count > 0)
-    {
-        <div class="row">
-            @foreach (var criature in Model.Criatures)
-            {
-                <div class="col-md-4 mb-4">
-                    <div class="card h-100">
-                        <!-- Imagen de la criatura -->
-                        <img src="@criature.ImagenUrl" class="card-img-top" alt="Imagen de @criature.Nombre" style="width: 100%; height: auto; object-fit: contain;" />
-                        <div class="card-body d-flex flex-column justify-content-between">
-                            <h5 class="card-title">@criature.Nombre</h5>
-
-                            <!-- Nivel de peligro representado por estrellas -->
-                            <div class="mb-3">
-                                <span class="rating-label">Nivel de Peligro:</span>
-                                <span class="star-rating">
-                                    @for (int j = 1; j <= 5; j++)
-                                    {
-                                        if (j <= criature.niveldepeligro)
-                                        {
-                                            <span>&#9733;</span> <!-- Estrella llena -->
-                                        }
-                                        else
-                                        {
-                                            <span class="empty">&#9733;</span> <!-- Estrella vacía -->
-                                        }
-                                    }
-                                </span>
-                            </div>
-
-                            <!-- Botones de acción -->
-                            <div class="btn-group-custom mt-auto">
-                                <a href="@Url.Action("VerMas", "Criature", new { id = criature.Id })" class="btn btn-info">Ver Más</a>
-                                <a href="@Url.Action("Edit", "Criature", new { id = criature.Id })" class="btn btn-primary">Editar</a>
-                                <form action="@Url.Action("Delete", "Criature", new { id = criature.Id })" method="post" style="display:inline;">
-                                    <button type="submit" class="btn btn-danger" onclick="return confirm('¿Estás seguro de que deseas eliminar esta criatura?');">Eliminar</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            }
-        </div>
-    }
-    else
-    {
-        <h5>No hay criaturas registradas</h5>
-    }
 </div>
 
-<!-- 🔧 Script: búsqueda + filtro exacto por estrellas -->
-<script>
-    const searchInput = document.getElementById('searchInput'); // Input de texto
-    const starFilter = document.getElementById('starFilter');   // Contenedor de estrellas
-    const filterStars = starFilter.querySelectorAll('.filter-star'); // Cada estrella
-    let selectedStars = 0; // Nivel de peligro seleccionado
+<!-- Lista de criaturas -->
+@if (Model.Criatures.Count > 0)
+{
+    <div class="cards-row">
+        @foreach (var criature in Model.Criatures)
+        {
+            <div class="card">
+                <img src="@criature.ImagenUrl" alt="Imagen de @criature.Nombre" />
+                <div class="card-body">
+                    <h5 class="card-title">@criature.Nombre</h5>
+                    <div>
+                        <span class="rating-label">Nivel de Peligro:</span>
+                        <span class="star-rating">
+                            @for (int j = 1; j <= 5; j++)
+                            {
+                                if (j <= criature.niveldepeligro)
+                                {
+                                    <span>&#9733;</span>
+                                }
+                                else
+                                {
+                                    <span class="empty">&#9733;</span>
+                                }
+                            }
+                        </span>
+                    </div>
+                    <div class="btn-group-magic">
+                        <a href="@Url.Action("VerMas", "Criature", new { id = criature.Id })" class="btn-magic view">Ver Más</a>
+                        <a href="@Url.Action("Edit", "Criature", new { id = criature.Id })" class="btn-magic edit">Editar</a>
+                        <form action="@Url.Action("Delete", "Criature", new { id = criature.Id })" method="post" style="display:inline;">
+                            <button type="submit" class="btn-magic delete" onclick="return confirm('¿Estás seguro de que deseas eliminar esta criatura?');">Eliminar</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <h5>No hay criaturas registradas</h5>
+}
 
-    // Función para aplicar los filtros (nombre y estrellas)
+<script>
+    const searchInput = document.getElementById('searchInput');
+    const starFilter = document.getElementById('starFilter');
+    const filterStars = starFilter.querySelectorAll('.filter-star');
+    let selectedStars = 0;
+
     function applyFilters() {
         const searchTerm = searchInput.value.toLowerCase();
         const cards = document.querySelectorAll('.card');
@@ -133,31 +82,28 @@
             const stars = card.querySelectorAll('.star-rating span:not(.empty)').length;
 
             const matchesName = name.includes(searchTerm);
-            const matchesStars = selectedStars === 0 || stars === selectedStars; // Exacto
+            const matchesStars = selectedStars === 0 || stars === selectedStars;
 
-            // Mostrar u ocultar la tarjeta según filtros
-            card.parentElement.style.display = (matchesName && matchesStars) ? 'block' : 'none';
+            card.style.display = (matchesName && matchesStars) ? 'flex' : 'none';
         });
     }
 
-    // Evento para búsqueda por nombre
     searchInput.addEventListener('input', applyFilters);
 
-    // Evento para seleccionar estrellas
     filterStars.forEach(star => {
         star.addEventListener('click', function () {
             const clickedValue = parseInt(this.getAttribute('data-value'));
-
-            // Si ya está seleccionada, quitar filtro
             selectedStars = (selectedStars === clickedValue) ? 0 : clickedValue;
 
-            // Actualizar visualmente las estrellas
             filterStars.forEach(s => {
                 const starValue = parseInt(s.getAttribute('data-value'));
-                s.style.color = starValue <= selectedStars ? 'gold' : '#ddd';
+                if (starValue <= selectedStars) {
+                    s.classList.add('selected');
+                } else {
+                    s.classList.remove('selected');
+                }
             });
 
-            // Aplicar filtros al hacer clic
             applyFilters();
         });
     });

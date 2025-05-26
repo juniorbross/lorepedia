@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TT4qoyFyqHZuJuCLH4TLbznr07NMRYBkYXDClp13T6k=",
+  "Hash": "33qNsT4wi0wKQi0H4aSaAJRSwBWRZinFcIuo+HmqWvU=",
   "Source": "MvcTemplate",
   "BasePath": "_content/MvcTemplate",
   "Mode": "Default",
@@ -1340,6 +1340,27 @@
       "OriginalItemSpec": "C:\\Users\\junior\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\08oq9ode8c-jb1omrwr64.gz",
+      "SourceId": "MvcTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MvcTemplate",
+      "RelativePath": "css/editar#[.{fingerprint=jb1omrwr64}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rmjukb4n11",
+      "Integrity": "HaGbPLw6BqrprVuAVJWAPrNXKxVimv1xMxWbhMq91Rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css"
+    },
+    {
       "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\09fu2iodh8-muycvpuwrr.gz",
       "SourceId": "MvcTemplate",
       "SourceType": "Discovered",
@@ -2516,6 +2537,27 @@
       "OriginalItemSpec": "C:\\Users\\junior\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+      "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\hyfknby52o-vde1f6bjfa.gz",
+      "SourceId": "MvcTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MvcTemplate",
+      "RelativePath": "css/index#[.{fingerprint=vde1f6bjfa}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\index.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ehsukj1f7d",
+      "Integrity": "ToR/XYKCrZ706+gDdvJNMBzXo8TDuHl19U0JQG6XoXc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\index.css"
+    },
+    {
       "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\igscs4x0yk-h1s4sie4z3.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -3629,6 +3671,27 @@
       "OriginalItemSpec": "C:\\Users\\junior\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\v8vao1tk8e-qqmuwfaup0.gz",
+      "SourceId": "MvcTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MvcTemplate",
+      "RelativePath": "css/addcriature#[.{fingerprint=qqmuwfaup0}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0bkvvdnomu",
+      "Integrity": "dETG7JPo0xrYrF0g+5Yzf8ZPCWDOdL8a9B5CQdabxic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css"
+    },
+    {
       "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\vltxs1u3vm-xtxxf3hu2r.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -3944,6 +4007,27 @@
       "OriginalItemSpec": "C:\\Users\\junior\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+      "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\zji11h0jdj-v1ys90qv9t.gz",
+      "SourceId": "MvcTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MvcTemplate",
+      "RelativePath": "css/vermas#[.{fingerprint=v1ys90qv9t}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\vermas.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "aeo6rl56ph",
+      "Integrity": "AgAmnb9vKBIRQxaLigt+NT0jXYRn87DqyYWZmO7TR18=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\vermas.css"
+    },
+    {
       "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\zo6c3hbfa4-fsbi9cje9m.gz",
       "SourceId": "MvcTemplate",
       "SourceType": "Discovered",
@@ -4028,6 +4112,69 @@
       "OriginalItemSpec": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcTemplate.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
+      "SourceId": "MvcTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\",
+      "BasePath": "_content/MvcTemplate",
+      "RelativePath": "css/addcriature#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qqmuwfaup0",
+      "Integrity": "oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\addcriature.css"
+    },
+    {
+      "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
+      "SourceId": "MvcTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\",
+      "BasePath": "_content/MvcTemplate",
+      "RelativePath": "css/editar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jb1omrwr64",
+      "Integrity": "UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\editar.css"
+    },
+    {
+      "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\index.css",
+      "SourceId": "MvcTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\",
+      "BasePath": "_content/MvcTemplate",
+      "RelativePath": "css/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vde1f6bjfa",
+      "Integrity": "E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
       "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\site.css",
       "SourceId": "MvcTemplate",
       "SourceType": "Discovered",
@@ -4047,6 +4194,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\vermas.css",
+      "SourceId": "MvcTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\",
+      "BasePath": "_content/MvcTemplate",
+      "RelativePath": "css/vermas#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v1ys90qv9t",
+      "Integrity": "Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\vermas.css"
     },
     {
       "Identity": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\favicon.ico",
@@ -5353,6 +5521,900 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/addcriature.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\v8vao1tk8e-qqmuwfaup0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000733137830"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1363"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dETG7JPo0xrYrF0g+5Yzf8ZPCWDOdL8a9B5CQdabxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY="
+        }
+      ]
+    },
+    {
+      "Route": "css/addcriature.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY="
+        }
+      ]
+    },
+    {
+      "Route": "css/addcriature.css.gz",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\v8vao1tk8e-qqmuwfaup0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dETG7JPo0xrYrF0g+5Yzf8ZPCWDOdL8a9B5CQdabxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dETG7JPo0xrYrF0g+5Yzf8ZPCWDOdL8a9B5CQdabxic="
+        }
+      ]
+    },
+    {
+      "Route": "css/addcriature.qqmuwfaup0.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\v8vao1tk8e-qqmuwfaup0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000733137830"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1363"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dETG7JPo0xrYrF0g+5Yzf8ZPCWDOdL8a9B5CQdabxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qqmuwfaup0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/addcriature.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY="
+        }
+      ]
+    },
+    {
+      "Route": "css/addcriature.qqmuwfaup0.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qqmuwfaup0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/addcriature.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oqpUCiCkhNpTRgNq6LFEqUKanws7VlTS3KzHHp1gplY="
+        }
+      ]
+    },
+    {
+      "Route": "css/addcriature.qqmuwfaup0.css.gz",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\v8vao1tk8e-qqmuwfaup0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dETG7JPo0xrYrF0g+5Yzf8ZPCWDOdL8a9B5CQdabxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qqmuwfaup0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/addcriature.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dETG7JPo0xrYrF0g+5Yzf8ZPCWDOdL8a9B5CQdabxic="
+        }
+      ]
+    },
+    {
+      "Route": "css/editar.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\08oq9ode8c-jb1omrwr64.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001054852321"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "947"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HaGbPLw6BqrprVuAVJWAPrNXKxVimv1xMxWbhMq91Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho="
+        }
+      ]
+    },
+    {
+      "Route": "css/editar.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho="
+        }
+      ]
+    },
+    {
+      "Route": "css/editar.css.gz",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\08oq9ode8c-jb1omrwr64.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HaGbPLw6BqrprVuAVJWAPrNXKxVimv1xMxWbhMq91Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HaGbPLw6BqrprVuAVJWAPrNXKxVimv1xMxWbhMq91Rw="
+        }
+      ]
+    },
+    {
+      "Route": "css/editar.jb1omrwr64.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\08oq9ode8c-jb1omrwr64.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001054852321"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "947"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HaGbPLw6BqrprVuAVJWAPrNXKxVimv1xMxWbhMq91Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jb1omrwr64"
+        },
+        {
+          "Name": "label",
+          "Value": "css/editar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho="
+        }
+      ]
+    },
+    {
+      "Route": "css/editar.jb1omrwr64.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jb1omrwr64"
+        },
+        {
+          "Name": "label",
+          "Value": "css/editar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UQEzMMnJ/IqbkCzpUFOaw6SxERujrxjQewsxfOMIBho="
+        }
+      ]
+    },
+    {
+      "Route": "css/editar.jb1omrwr64.css.gz",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\08oq9ode8c-jb1omrwr64.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HaGbPLw6BqrprVuAVJWAPrNXKxVimv1xMxWbhMq91Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jb1omrwr64"
+        },
+        {
+          "Name": "label",
+          "Value": "css/editar.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HaGbPLw6BqrprVuAVJWAPrNXKxVimv1xMxWbhMq91Rw="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\hyfknby52o-vde1f6bjfa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000810372771"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1233"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ToR/XYKCrZ706+gDdvJNMBzXo8TDuHl19U0JQG6XoXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css.gz",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\hyfknby52o-vde1f6bjfa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ToR/XYKCrZ706+gDdvJNMBzXo8TDuHl19U0JQG6XoXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ToR/XYKCrZ706+gDdvJNMBzXo8TDuHl19U0JQG6XoXc="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.vde1f6bjfa.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\hyfknby52o-vde1f6bjfa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000810372771"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1233"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ToR/XYKCrZ706+gDdvJNMBzXo8TDuHl19U0JQG6XoXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vde1f6bjfa"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.vde1f6bjfa.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vde1f6bjfa"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E7ZcUqukoGIyAQO4DBk16Pj4tbtrYw6OVK/lMZA5caM="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.vde1f6bjfa.css.gz",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\hyfknby52o-vde1f6bjfa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ToR/XYKCrZ706+gDdvJNMBzXo8TDuHl19U0JQG6XoXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 04:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vde1f6bjfa"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ToR/XYKCrZ706+gDdvJNMBzXo8TDuHl19U0JQG6XoXc="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\jhw7p8nccv-b9sayid5wm.gz",
       "Selectors": [
@@ -5684,6 +6746,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+        }
+      ]
+    },
+    {
+      "Route": "css/vermas.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\zji11h0jdj-v1ys90qv9t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000967117988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgAmnb9vKBIRQxaLigt+NT0jXYRn87DqyYWZmO7TR18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 01:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/vermas.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\vermas.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 01:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/vermas.css.gz",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\zji11h0jdj-v1ys90qv9t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgAmnb9vKBIRQxaLigt+NT0jXYRn87DqyYWZmO7TR18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 01:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AgAmnb9vKBIRQxaLigt+NT0jXYRn87DqyYWZmO7TR18="
+        }
+      ]
+    },
+    {
+      "Route": "css/vermas.v1ys90qv9t.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\zji11h0jdj-v1ys90qv9t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000967117988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgAmnb9vKBIRQxaLigt+NT0jXYRn87DqyYWZmO7TR18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 01:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v1ys90qv9t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/vermas.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/vermas.v1ys90qv9t.css",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\vermas.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 01:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v1ys90qv9t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/vermas.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/vermas.v1ys90qv9t.css.gz",
+      "AssetFile": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\obj\\Debug\\net9.0\\compressed\\zji11h0jdj-v1ys90qv9t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgAmnb9vKBIRQxaLigt+NT0jXYRn87DqyYWZmO7TR18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 01:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v1ys90qv9t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/vermas.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AgAmnb9vKBIRQxaLigt+NT0jXYRn87DqyYWZmO7TR18="
         }
       ]
     },

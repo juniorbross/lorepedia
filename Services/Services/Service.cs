@@ -31,21 +31,12 @@ namespace Services.Services
         }
 
         // Implementación de AddCriature para crear una nueva Criature
-        public async Task AddCriature(string nombre, string nombreCientifico, string tipo, string habitat, string alimentacion, string descripcion, string imagenUrl)
+        public async Task AddCriature(CriatureModel model)
         {
-            var criature = new Criature
-            {
-                Nombre = nombre,
-                NombreCientifico = nombreCientifico,
-                Tipo = tipo,
-                Habitat = habitat,
-                Alimentacion = alimentacion,
-                Descripcion = descripcion,
-                ImagenUrl = imagenUrl
-            };
+            
 
             // Añadimos la Criature al repositorio
-            await Repository.AddCriature(criature);
+            await Repository.AddCriature(Mapper.Map<Criature>(model));
         }
 
         // Obtener todas las Criatures
@@ -54,5 +45,33 @@ namespace Services.Services
             var criatures = await Repository.GetAllCriatures();
             return Mapper.Map<List<CriatureModel>>(criatures);
         }
+        // Implementación de UpdateCriature usando el modelo CriatureModel
+        public async Task UpdateCriature(CriatureModel criatureModel)
+        {
+            // Convertir el modelo DTO a entidad
+            var criature = Mapper.Map<Criature>(criatureModel);
+
+            // Verificar si la criatura existe
+            var existingCriature = await Repository.GetCriatureById(criature.Id);
+            if (existingCriature == null)
+            {
+                throw new Exception("Criatura no encontrada");
+            }
+
+            // Actualizar la criatura
+            await Repository.UpdateCriature(criature);
+        }
+
+        // eliminar una Criature
+        public async Task DeleteCriature(Guid id)
+        {
+            var criature = await Repository.GetCriatureById(id);
+            if (criature == null)
+                throw new Exception("Criatura no encontrada");
+
+            await Repository.DeleteCriature(criature);
+        }
+
+
     }
 }

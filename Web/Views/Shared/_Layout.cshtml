@@ -4,41 +4,76 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - MvcTemplate</title>
+
+    <!-- Fuente Cinzel desde Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap" rel="stylesheet" />
+
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MvcTemplate.styles.css" asp-append-version="true" />
+
+    <style>
+        /* Estilo para el título "Lorepedia" mitológico */
+        .logo-lorepedia {
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            font-size: 2rem;
+            color: #b8860b; /* dorado oscuro */
+            text-shadow: 0 0 5px #ffd700, 0 0 10px #daa520, 2px 2px 4px rgba(0,0,0,0.7);
+            letter-spacing: 3px;
+            user-select: none;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+            .logo-lorepedia:hover {
+                color: #ffd700;
+                text-shadow: 0 0 10px #fffacd, 0 0 20px #ffd700, 4px 4px 6px rgba(0,0,0,0.8);
+                text-decoration: none;
+            }
+
+        /* Estilo para los botones en la navbar */
+        .nav-link.custom-button {
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            color: #b8860b !important;
+            text-shadow: 0 0 5px #ffd700, 0 0 10px #daa520, 1px 1px 2px rgba(0,0,0,0.7);
+            letter-spacing: 1.5px;
+            padding: 0.5rem 1rem;
+            border: 2px solid transparent;
+            border-radius: 5px;
+            transition: color 0.3s ease, border-color 0.3s ease, text-shadow 0.3s ease;
+        }
+
+            .nav-link.custom-button:hover {
+                color: #ffd700 !important;
+                border-color: #ffd700 !important;
+                text-shadow: 0 0 10px #fffacd, 0 0 20px #ffd700, 2px 2px 4px rgba(0,0,0,0.9);
+                text-decoration: none;
+            }
+    </style>
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MvcTemplate</a>
+                <!-- Título "Lorepedia" mitológico que redirige a lista -->
+                <a class="navbar-brand logo-lorepedia" asp-area="" asp-controller="Criature" asp-action="Index">Lorepedia</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                    <ul class="navbar-nav flex-grow-1 align-items-center">
+                        <!-- Botón para lista de criaturas -->
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link custom-button" asp-controller="Criature" asp-action="Index">Lista de Criaturas</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        
 
-                        <!-- Dropdown para Criature -->
-                        <li>
-                            <div>
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownCriatureButton" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Criaturas
-                                </button>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownCriatureButton">
-                                    <li><a class="dropdown-item" asp-controller="Criature" asp-action="Index">Listado</a></li>
-                                    <li><a class="dropdown-item" asp-controller="Criature" asp-action="AddCriature">Adicionar</a></li>
-                                </ul>
-                            </div>
+                        <!-- Botón para crear criatura -->
+                        <li class="nav-item">
+                            <a class="nav-link custom-button" asp-controller="Criature" asp-action="AddCriature">Crear Criatura</a>
                         </li>
                     </ul>
                     <partial name="_LoginPartial" />
@@ -52,11 +87,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - MvcTemplate - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
+    
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

@@ -6,8 +6,14 @@ namespace Infrastructure.Repositories.IRepositories
     {
         Task AddCriature(Criature criature);
         Task AddMilk(Milk milk);
-        
+        Task UpdateCriature(Criature criature);
+        Task DeleteCriature(Criature criature);
+
+
         Task<List<Criature>> GetAllCriatures(); // ✅ Corrección aplicada aquí
-        Task<List<Milk>> GetAllMilks();
+        Task<List<Milk>> GetAllMilks(); // Asegúrate de que esté definida esta firma
+
+        Task<Criature> GetCriatureById(Guid id);
+
     }
 }

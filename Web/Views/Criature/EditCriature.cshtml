@@ -3,37 +3,12 @@
 @{
     ViewData["Title"] = "Editar Criatura";
 }
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap" rel="stylesheet" />
+<link href="~/css/editar.css" rel="stylesheet" />
 
 <h2>Editar Criatura</h2>
 
-<style>
-    .star-rating {
-        direction: rtl;
-        unicode-bidi: bidi-override;
-        display: inline-flex;
-    }
-
-        .star-rating input[type="radio"] {
-            display: none;
-        }
-
-        .star-rating label {
-            font-size: 2rem;
-            color: #ddd;
-            cursor: pointer;
-        }
-
-        .star-rating input[type="radio"]:checked ~ label {
-            color: gold;
-        }
-
-        .star-rating label:hover,
-        .star-rating label:hover ~ label {
-            color: gold;
-        }
-</style>
-
-<form asp-action="Edit" method="post">
+<form asp-action="Edit" method="post" class="creature-form">
     <input type="hidden" asp-for="Id" />
 
     <div class="form-group">
@@ -73,7 +48,7 @@
     </div>
 
     <div class="form-group">
-        <label asp-for="niveldepeligro">Nivel de Peligro</label>
+        <label>Nivel de Peligro</label>
         <div class="star-rating">
             @for (int i = 5; i >= 1; i--)
             {
@@ -92,6 +67,8 @@
         <span asp-validation-for="Preacaucion" class="text-danger"></span>
     </div>
 
-    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
-    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    <div class="form-buttons">
+        <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
 </form>

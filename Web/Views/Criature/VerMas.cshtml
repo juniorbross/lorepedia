@@ -5,8 +5,13 @@
     ViewData["Title"] = "Detalles de la Criatura";
 }
 
+<!-- Fuentes mitológicas -->
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Uncial+Antiqua&display=swap" rel="stylesheet" />
+<!-- CSS personalizado -->
+<link href="~/css/vermas.css" rel="stylesheet" />
+
 <div class="container mt-4">
-    <h2 class="text-center mb-4">@Model.Nombre</h2>
+    <h2>@Model.Nombre</h2>
 
     <div class="row">
         <div class="col-md-6">
@@ -26,11 +31,11 @@
                     {
                         if (i <= Model.niveldepeligro)
                         {
-                            <span style="color: gold;">&#9733;</span>
+                            <span>&#9733;</span>
                         }
                         else
                         {
-                            <span style="color: #ddd;">&#9733;</span>
+                            <span class="empty">&#9733;</span>
                         }
                     }
                 </span>
@@ -40,4 +45,3 @@
         </div>
     </div>
 </div>
-

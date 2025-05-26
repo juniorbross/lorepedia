@@ -20,12 +20,15 @@ namespace Services.Dtos
     {
         public Guid Id { get; set; }
         public string Nombre { get; set; }
-        public string NombreCientifico { get; set; }
         public string Tipo { get; set; }
         public string Habitat { get; set; }
         public string Alimentacion { get; set; }
         public string Descripcion { get; set; }
         public string ImagenUrl { get; set; }
+        public virtual string Preacaucion { get; set; }
+
+        public virtual int niveldepeligro { get; set; }
+
 
         public CriatureModel()
         {

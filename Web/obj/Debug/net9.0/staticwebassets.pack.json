@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets\\MvcTemplate.2h854hhy5b.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
+      "PackagePath": "staticwebassets\\css\\addcriature.css"
+    },
+    {
+      "Id": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
+      "PackagePath": "staticwebassets\\css\\editar.css"
+    },
+    {
+      "Id": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
       "Id": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\vermas.css",
+      "PackagePath": "staticwebassets\\css\\vermas.css"
     },
     {
       "Id": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\favicon.ico",

@@ -1,0 +1,98 @@
+﻿/* vermas.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Uncial+Antiqua&display=swap');
+
+body {
+    font-family: 'Cinzel Decorative', 'Uncial Antiqua', serif;
+    background: url('https://images.unsplash.com/photo-1578302409072-9c1725001b1a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center fixed;
+    background-size: cover;
+    color: #f5f0e6;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+.container {
+    background: rgba(15, 10, 10, 0.85);
+    padding: 3rem 4rem;
+    border-radius: 16px;
+    box-shadow: 0 0 30px 8px rgba(30, 20, 20, 0.9);
+    max-width: 1000px; /* Más ancho para destacar */
+    margin: 4rem auto;
+}
+
+h2.text-center {
+    font-family: 'Uncial Antiqua', serif;
+    font-size: 3.8rem; /* Más grande */
+    text-align: center;
+    margin-bottom: 2.5rem;
+    text-shadow: 0 0 6px #f9d71c, 0 0 12px #f9d71c, 0 0 18px #f9d71c, 0 0 24px #d49110;
+    cursor: default;
+}
+
+.row {
+    display: flex;
+    gap: 3rem; /* Más espacio entre columnas */
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.col-md-6 {
+    flex: 1 1 48%; /* Ocupa casi la mitad cada columna */
+    min-width: 350px;
+}
+
+.img-fluid {
+    width: 100%;
+    border-radius: 14px;
+    box-shadow: 0 0 20px 8px rgba(249, 215, 28, 0.85);
+}
+
+p {
+    font-size: 1.3rem; /* Texto más grande */
+    margin: 1rem 0;
+    text-shadow: 0 0 4px #3a2f15;
+}
+
+strong {
+    color: #f9d71c;
+    text-shadow: 0 0 3px #b37802;
+}
+
+.star-rating span {
+    font-size: 1.8rem; /* Estrellas más grandes */
+    color: gold;
+    text-shadow: 0 0 3px #b37802;
+}
+
+.btn-secondary {
+    background-color: #7e5c0a;
+    border-color: #7e5c0a;
+    color: #f9d71c;
+    font-weight: bold;
+    padding: 0.75rem 2rem;
+    border-radius: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    display: inline-block;
+    margin-top: 2rem;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 1.1rem;
+}
+
+    .btn-secondary:hover {
+        background-color: #f9d71c;
+        color: #3a2f15;
+        text-shadow: none;
+    }
+
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .col-md-6 {
+        flex: 1 1 100%;
+    }
+}
