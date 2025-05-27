@@ -11,11 +11,11 @@
 <link href="~/css/vermas.css" rel="stylesheet" />
 
 <div class="container mt-4">
-    <h2>@Model.Nombre</h2>
+    <h2 class="text-center">@Model.Nombre</h2>
 
     <div class="row">
         <div class="col-md-6">
-            <img src="@Model.ImagenUrl" class="img-fluid rounded" alt="Imagen de @Model.Nombre" />
+            <img src="@Model.ImagenUrl" class="img-fluid" alt="Imagen de @Model.Nombre" />
         </div>
         <div class="col-md-6">
             <p><strong>Tipo:</strong> @Model.Tipo</p>
@@ -29,9 +29,9 @@
                 <span class="star-rating">
                     @for (int i = 1; i <= 5; i++)
                     {
-                        if (i <= Model.niveldepeligro)
+                        if (i <= Model.NivelDePeligro)
                         {
-                            <span>&#9733;</span>
+                            <span class="filled">&#9733;</span>
                         }
                         else
                         {

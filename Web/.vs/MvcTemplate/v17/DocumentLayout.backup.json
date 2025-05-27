@@ -3,16 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\wwwroot\\css\\editar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:wwwroot\\css\\editar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\views\\criature\\editcriature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:views\\criature\\editcriature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\wwwroot\\css\\editar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:wwwroot\\css\\editar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\views\\criature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:views\\criature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\services\\dtos\\criaturemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\services\\common\\mprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D431F70-CC73-41B4-AFAD-BB6056406D9E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\domain\\domain\\criature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\services\\iservices\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D431F70-CC73-41B4-AFAD-BB6056406D9E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\domain\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -34,39 +60,16 @@
       "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\infrastructure\\repositories\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\services\\iservices\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\services\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\infrastructure\\repositories\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\services\\dtos\\criaturemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\services\\common\\mprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\services\\dtos\\milkmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D431F70-CC73-41B4-AFAD-BB6056406D9E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\domain\\domain\\criature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D431F70-CC73-41B4-AFAD-BB6056406D9E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\junior\\onedrive\\escritorio\\universidad\\semestre 4\\web\\mvctemplate\\domain\\domain\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -157,7 +160,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
+              "Title": "CriatureModels.cs",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Dtos\\CriatureModels.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Dtos\\CriatureModels.cs",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Dtos\\CriatureModels.cs",
+              "RelativeToolTip": "..\\Services\\Dtos\\CriatureModels.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:55:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MProfile.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Common\\MProfile.cs",
               "RelativeDocumentMoniker": "..\\Services\\Common\\MProfile.cs",
@@ -165,47 +181,129 @@
               "RelativeToolTip": "..\\Services\\Common\\MProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T05:13:31.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MilkModels.cs",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Dtos\\MilkModels.cs",
-              "RelativeDocumentMoniker": "..\\Services\\Dtos\\MilkModels.cs",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Dtos\\MilkModels.cs",
-              "RelativeToolTip": "..\\Services\\Dtos\\MilkModels.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T04:59:47.294Z"
+              "WhenOpened": "2025-05-12T05:13:31.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AddCriature.cshtml",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\AddCriature.cshtml",
-              "RelativeDocumentMoniker": "Views\\Criature\\AddCriature.cshtml",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\AddCriature.cshtml",
-              "RelativeToolTip": "Views\\Criature\\AddCriature.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Criature\\index.cshtml",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\index.cshtml",
+              "RelativeToolTip": "Views\\Criature\\index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T23:49:29.496Z"
+              "WhenOpened": "2025-05-12T06:05:45.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "addcriature.css",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\addcriature.css",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
-              "RelativeToolTip": "wwwroot\\css\\addcriature.css",
-              "ViewState": "AgIAAJoAAAAAAAAAAADwv70AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "editar.css",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\editar.css",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
+              "RelativeToolTip": "wwwroot\\css\\editar.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-26T04:11:35.145Z"
+              "WhenOpened": "2025-05-26T04:41:42.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditCriature.cshtml",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\EditCriature.cshtml",
+              "RelativeDocumentMoniker": "Views\\Criature\\EditCriature.cshtml",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\EditCriature.cshtml",
+              "RelativeToolTip": "Views\\Criature\\EditCriature.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T06:09:45.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:37:26.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T01:37:33.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:05:34.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Criature.cs",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Domain\\Domain\\Criature.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\Criature.cs",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Domain\\Domain\\Criature.cs",
+              "RelativeToolTip": "..\\Domain\\Domain\\Criature.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:54:00.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\IServices\\IService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IServices\\IService.cs",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\IServices\\IService.cs",
+              "RelativeToolTip": "..\\Services\\IServices\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:55:48.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Domain\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Domain\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T19:39:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\Repositories\\IRepositories\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\IRepositories\\IRepository.cs",
@@ -217,44 +315,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditCriature.cshtml",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\EditCriature.cshtml",
-              "RelativeDocumentMoniker": "Views\\Criature\\EditCriature.cshtml",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\EditCriature.cshtml",
-              "RelativeToolTip": "Views\\Criature\\EditCriature.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T06:09:45.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "editar.css",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\editar.css",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\editar.css",
-              "RelativeToolTip": "wwwroot\\css\\editar.css",
-              "ViewState": "AgIAAG8AAAAAAAAAAADwv4kAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "addcriature.css",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\addcriature.css",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\addcriature.css",
+              "RelativeToolTip": "wwwroot\\css\\addcriature.css",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwv70AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-26T04:41:42.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T04:11:35.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Criature\\index.cshtml",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\index.cshtml",
-              "RelativeToolTip": "Views\\Criature\\index.cshtml",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAowG4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "AddCriature.cshtml",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\AddCriature.cshtml",
+              "RelativeDocumentMoniker": "Views\\Criature\\AddCriature.cshtml",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\AddCriature.cshtml",
+              "RelativeToolTip": "Views\\Criature\\AddCriature.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T06:05:45.784Z"
+              "WhenOpened": "2025-05-12T23:49:29.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
+              "Title": "MilkModels.cs",
+              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Dtos\\MilkModels.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Dtos\\MilkModels.cs",
+              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Dtos\\MilkModels.cs",
+              "RelativeToolTip": "..\\Services\\Dtos\\MilkModels.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:59:47.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\Repositories\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\Repositories\\Repository.cs",
@@ -266,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\index.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\index.css",
@@ -278,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "CriatureController.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Controllers\\CriatureController.cs",
               "RelativeDocumentMoniker": "Controllers\\CriatureController.cs",
@@ -290,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Services\\Service.cs",
               "RelativeDocumentMoniker": "..\\Services\\Services\\Service.cs",
@@ -302,67 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\IServices\\IService.cs",
-              "RelativeDocumentMoniker": "..\\Services\\IServices\\IService.cs",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\IServices\\IService.cs",
-              "RelativeToolTip": "..\\Services\\IServices\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T04:55:48.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CriatureModels.cs",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Dtos\\CriatureModels.cs",
-              "RelativeDocumentMoniker": "..\\Services\\Dtos\\CriatureModels.cs",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\Dtos\\CriatureModels.cs",
-              "RelativeToolTip": "..\\Services\\Dtos\\CriatureModels.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T04:55:29.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-13T01:37:33.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T01:37:26.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T05:05:34.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\BaseRepository.cs",
@@ -374,19 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Criature.cs",
-              "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Domain\\Domain\\Criature.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Domain\\Criature.cs",
-              "ToolTip": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Domain\\Domain\\Criature.cs",
-              "RelativeToolTip": "..\\Domain\\Domain\\Criature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T04:54:00.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
@@ -398,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -410,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "VerMas.cshtml",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Criature\\VerMas.cshtml",
               "RelativeDocumentMoniker": "Views\\Criature\\VerMas.cshtml",
@@ -422,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "vermas.css",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\wwwroot\\css\\vermas.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\vermas.css",
@@ -434,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Milk.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Domain\\Domain\\Milk.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Domain\\Milk.cs",
@@ -446,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -458,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Domain\\Domain\\BaseEntity.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Domain\\BaseEntity.cs",
@@ -470,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -482,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -494,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\DependencyInjection.cs",
@@ -506,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "20250513005502_agregarCampos2.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\Migrations\\20250513005502_agregarCampos2.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250513005502_agregarCampos2.cs",
@@ -518,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "20250513004603_agregarCampos.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\Migrations\\20250513004603_agregarCampos.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250513004603_agregarCampos.cs",
@@ -530,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "MilkController.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Controllers\\MilkController.cs",
               "RelativeDocumentMoniker": "Controllers\\MilkController.cs",
@@ -542,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Service.cs",
               "RelativeDocumentMoniker": "Service.cs",
@@ -554,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "20250512235750_eliminacionCampo.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Infrastructure\\Migrations\\20250512235750_eliminacionCampo.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250512235750_eliminacionCampo.cs",
@@ -566,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -578,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\junior\\OneDrive\\Escritorio\\universidad\\semestre 4\\web\\MvcTemplate\\Services\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\Services\\DependencyInjection.cs",

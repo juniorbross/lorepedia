@@ -1,6 +1,4 @@
-﻿/* vermas.css */
-
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Uncial+Antiqua&display=swap');
+﻿@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Uncial+Antiqua&display=swap');
 
 body {
     font-family: 'Cinzel Decorative', 'Uncial Antiqua', serif;
@@ -17,13 +15,13 @@ body {
     padding: 3rem 4rem;
     border-radius: 16px;
     box-shadow: 0 0 30px 8px rgba(30, 20, 20, 0.9);
-    max-width: 1000px; /* Más ancho para destacar */
+    max-width: 1000px;
     margin: 4rem auto;
 }
 
 h2.text-center {
     font-family: 'Uncial Antiqua', serif;
-    font-size: 3.8rem; /* Más grande */
+    font-size: 3.8rem;
     text-align: center;
     margin-bottom: 2.5rem;
     text-shadow: 0 0 6px #f9d71c, 0 0 12px #f9d71c, 0 0 18px #f9d71c, 0 0 24px #d49110;
@@ -32,13 +30,13 @@ h2.text-center {
 
 .row {
     display: flex;
-    gap: 3rem; /* Más espacio entre columnas */
+    gap: 3rem;
     flex-wrap: wrap;
     justify-content: center;
 }
 
 .col-md-6 {
-    flex: 1 1 48%; /* Ocupa casi la mitad cada columna */
+    flex: 1 1 48%;
     min-width: 350px;
 }
 
@@ -49,7 +47,7 @@ h2.text-center {
 }
 
 p {
-    font-size: 1.3rem; /* Texto más grande */
+    font-size: 1.3rem;
     margin: 1rem 0;
     text-shadow: 0 0 4px #3a2f15;
 }
@@ -60,9 +58,17 @@ strong {
 }
 
 .star-rating span {
-    font-size: 1.8rem; /* Estrellas más grandes */
-    color: gold;
+    font-size: 1.8rem;
     text-shadow: 0 0 3px #b37802;
+}
+
+.star-rating .filled {
+    color: gold;
+}
+
+.star-rating .empty {
+    color: #444;
+    opacity: 0.3;
 }
 
 .btn-secondary {
