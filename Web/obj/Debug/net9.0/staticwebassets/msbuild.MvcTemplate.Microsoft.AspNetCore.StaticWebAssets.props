@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v1ys90qv9t</Fingerprint>
-      <Integrity>Y6QJQ2TpPocvmcf7YbxPHQ0PXqQG1bifrQlqUyFc09Q=</Integrity>
+      <Fingerprint>iiv83s3qfd</Fingerprint>
+      <Integrity>divgCOfibBng1c3MUaEhhdAbMJJByEIHO5pNIGP4Wuc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\vermas.css'))</OriginalItemSpec>

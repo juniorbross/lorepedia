@@ -234,7 +234,6 @@ C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\o
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\08oq9ode8c-tzfo9v8hmm.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\hyfknby52o-vde1f6bjfa.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\jhw7p8nccv-b9sayid5wm.gz
-C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\zji11h0jdj-v1ys90qv9t.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\e6c4g4a1hh-61n19gt1b8.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\u919i34rap-xtxxf3hu2r.gz
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\p7nhcl5b2e-bqjiyaj88i.gz
@@ -314,3 +313,4 @@ C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\o
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\MvcTemplate.pdb
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\MvcTemplate.genruntimeconfig.cache
 C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\ref\MvcTemplate.dll
+C:\Users\junior\OneDrive\Escritorio\universidad\semestre 4\web\MvcTemplate\Web\obj\Debug\net9.0\compressed\zji11h0jdj-iiv83s3qfd.gz
